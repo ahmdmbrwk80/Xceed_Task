@@ -2,6 +2,6 @@ This is a .NET Core (MVC) web application for managing a product catalog. The ap
 
 Technologies Used
 .NET Core (MVC): The application is built using the .NET Core framework with the Model-View-Controller architecture.
-Entity Framework (EF): EF is used for working with the MSSQL database, including data access and migrations.
+Entity Framework (EF): EF is used for working with the SQL Server database, including data access and migrations.
 Identity: ASP.NET Identity is utilized for user management and to enable admin privileges.
-AutoMapper: AutoMapper is used for object-to-object mapping, making it easier to work with data transfer objects (DTOs).
+
